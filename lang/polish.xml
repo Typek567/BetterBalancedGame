@@ -164,7 +164,7 @@
 			<Text>+1 do zasięgu widzenia wszystkich jednostek (Ejército Patriota)</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION" Language="pl_PL">
-			<Text>Wszystkie jednostki mają +1 do zsięgu widzenia. Awansowanie jednostki nie kończy jej tury.</Text>
+			<Text>+1 do zasięgu widzenia wszystkich jednostek. Awansowanie jednostki nie kończy jej tury.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION" Language="pl_PL">
 			<Text>Gdy wkraczasz w nową epokę, zyskujesz komendanta generalnego. Nie może zatrudnić [ICON_GreatGeneral] wielkiego generała.</Text>
@@ -233,7 +233,7 @@
 			<Text>+{1_num} do bazowej premii [ICON_SCIENCE] nauki za sąsiedztwo.</Text>
 		</Replace>
 		<Replace Tag="LOC_DISTRICT_SEOWON_DESCRIPTION" Language="pl_PL">
-			<Text>Unikalna dzielnica Korei wspomagająca naukę. Zastępuje kampus. +2 do [ICON_SCIENCE] nauki, sąsiedztwo kopalni zapewnia dodatkowy bonus. Zapewnia +1 do [ICON_CULTURE] kultury sąsiadującym dzielnicom kulturalnym. Po wybudowaniu uruchamia bombę kulturową na sąsiadujących polach. Można wybudować wyłącznie na wzgórzach.</Text>
+			<Text>Unikalna dzielnica Korei wspomagająca naukę. Zastępuje kampus. +2 do [ICON_SCIENCE] nauki, +1 do [ICON_SCIENCE] nauki za każde 2 sąsiadujące kopalnie. -1 do [ICON_SCIENCE] nauki za każdą sąsiadującą dzielnicę, oprócz dzielnicy kulturalnej. Zapewnia +1 do [ICON_CULTURE] kultury sąsiadującym dzielnicom kulturalnym. Po wybudowaniu uruchamia bombę kulturową na sąsiadujących polach. Można wybudować wyłącznie na wzgórzach.</Text>
 		</Replace>
 		<Replace Tag="LOC_DISTRICT_SEOWON_DESCRIPTION_ADJACENCY" Language="pl_PL">
 			<Text>Sąsiedztwo: +1 do [ICON_SCIENCE] nauki za każde 2 sąsiadujące kopalnie. -1 do [ICON_SCIENCE] nauki za każdą sąsiadującą dzielnicę, oprócz dzielnicy kulturalnej. Dodatkowo zapewnia +1 [ICON_CULTURE] kultury za sąsiedztwo dzielnicy kulturalnej.</Text>
